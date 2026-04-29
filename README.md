@@ -56,7 +56,7 @@ It is inspired by early systems such as :contentReference[oaicite:0]{index=0} an
 
 ## 🚀 Current Status
 
-> ⚠️ Early development stage (v0.01)
+> ⚠️ Early development stage (v0.01.1)
 
 The system is currently capable of:
 - Booting via custom bootloader
@@ -122,4 +122,3 @@ Developed independently as a systems programming learning project.
 ⭐ If you like this project, consider starring it!
 
 </div>
-```
